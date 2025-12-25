@@ -1,0 +1,4 @@
+What is incident response?
+It is a structure to be created and used when an security incident occurs. 
+The lifecycle of incident response given by NIST is as follows 
+Preperation -> Detection -> Containment, Eradication, & Recovery -> Post incident activity.
